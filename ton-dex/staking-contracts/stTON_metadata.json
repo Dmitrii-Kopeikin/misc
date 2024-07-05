@@ -1,0 +1,11 @@
+{
+    "uri": "",
+    "name": "stTON",
+    "description": "stTON",
+    "image": "",
+    "image_data": "",
+    "symbol": "stTON",
+    "decimals": "9",
+    "amount_style": "n",
+    "render_type": "currency"
+}
