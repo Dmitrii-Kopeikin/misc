@@ -1,0 +1,11 @@
+{
+    "uri": "",
+    "name": "NTN",
+    "description": "NTN",
+    "image": "https://raw.githubusercontent.com/Dmitrii-Kopeikin/misc/f9ff9089cfacffba647912bbbaa94acb5875c690/ton-dex/staking-contracts/NTN_512.png",
+    "image_data": "",
+    "symbol": "NTN",
+    "decimals": "9",
+    "amount_style": "n",
+    "render_type": "currency"
+}
