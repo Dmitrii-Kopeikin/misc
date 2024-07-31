@@ -1,10 +1,10 @@
 {
     "uri": "",
-    "name": "stNoToN",
-    "description": "stNoToN",
+    "name": "stNTN",
+    "description": "stNTN",
     "image": "https://raw.githubusercontent.com/Dmitrii-Kopeikin/misc/main/ton-dex/staking-contracts/stNTN_512.png",
     "image_data": "",
-    "symbol": "stNoToN",
+    "symbol": "stNTN",
     "decimals": "9",
     "amount_style": "n",
     "render_type": "currency"
