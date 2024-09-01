@@ -1,0 +1,11 @@
+{
+    "uri": "",
+    "name": "SuperTON",
+    "description": "SuperTON",
+    "image": "https://raw.githubusercontent.com/Dmitrii-Kopeikin/misc/main/ton-dex/staking-contracts/SuperTON_512.png",
+    "image_data": "",
+    "symbol": "SuperTON",
+    "decimals": "9",
+    "amount_style": "n",
+    "render_type": "currency"
+}
