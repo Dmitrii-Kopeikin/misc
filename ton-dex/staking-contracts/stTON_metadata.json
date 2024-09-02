@@ -1,0 +1,11 @@
+{
+    "uri": "",
+    "name": "stTON",
+    "description": "stTON",
+    "image": "https://raw.githubusercontent.com/Dmitrii-Kopeikin/misc/main/ton-dex/staking-contracts/stTON_512.png",
+    "image_data": "",
+    "symbol": "stTON",
+    "decimals": "9",
+    "amount_style": "n",
+    "render_type": "currency"
+}
